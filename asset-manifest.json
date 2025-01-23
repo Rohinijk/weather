@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rohinijk.github.io/weather/static/css/main.542de72c.css",
+    "main.js": "/Rohinijk.github.io/weather/static/js/main.52549a29.js",
+    "static/media/weather.jpg": "/Rohinijk.github.io/weather/static/media/weather.9374ff66de40944ab15f.jpg",
+    "index.html": "/Rohinijk.github.io/weather/index.html",
+    "main.542de72c.css.map": "/Rohinijk.github.io/weather/static/css/main.542de72c.css.map",
+    "main.52549a29.js.map": "/Rohinijk.github.io/weather/static/js/main.52549a29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542de72c.css",
+    "static/js/main.52549a29.js"
+  ]
+}
